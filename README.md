@@ -5,7 +5,7 @@ this is a console based easy to play game.
 ## Pokemon_Game  
 ## Devloped by Ayushthepro11
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://example.com)
 
 This is a console based easy to play game .
 
